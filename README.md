@@ -27,14 +27,3 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
-
-<!--<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-</p>-->
-
-## Other 🟦
-
-<p align="center">
-  <a href="https://app.daily.dev/butykadavid"><img src="https://api.daily.dev/devcards/v2/acRWpY3bASsXxfYWfGcJB.png?type=wide&r=x4r" width="652" alt="Dávid Butyka's Dev Card"/></a>
-</p>
